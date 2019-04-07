@@ -2,6 +2,8 @@
 
 > Built at HatterHacks2019
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jSxVXv6bG_E/0.jpg)](https://www.youtube.com/watch?v=jSxVXv6bG_E)
+
 It's an E-Ink Youtube stats counter display, running an Adafruit Feather Huzzah.
 
 The ESP8826 makes an HTTPS request to google apis to pull youtube channel meta
