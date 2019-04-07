@@ -2,7 +2,9 @@
 
 > Built at HatterHacks2019
 
+
 YouTube Demo:
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jSxVXv6bG_E/0.jpg)](https://www.youtube.com/watch?v=jSxVXv6bG_E)
 
 It's an E-Ink Youtube stats counter display, running an Adafruit Feather Huzzah.
