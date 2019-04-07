@@ -1,5 +1,13 @@
 # Ink Sub
 
+> Built at HatterHacks2019
+
+It's an E-Ink Youtube stats counter display, running an Adafruit Feather Huzzah.
+
+The ESP8826 makes an HTTPS request to google apis to pull youtube channel meta
+How I built it
+
+Adafruit Feather Huzzah + Adafruit 2.13" Tri-Color eInk / ePaper Display FeatherWing + Lipo battery 
 
 # References
 

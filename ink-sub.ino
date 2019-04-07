@@ -187,10 +187,11 @@ void loop() {
       const char* items_0_statistics_videoCount = items_0_statistics["videoCount"]; // "363"
       Serial.println(items_0_statistics_subscriberCount);
       display.clearBuffer();
-      display.setCursor(5, 5);
+      display.fillRect(0, 0, display.width() / 3, display.height(), EPD_RED);
+      display.setCursor(display.width() / 3 + 5, display.height() / 2 - 10);
       display.fillScreen(EPD_WHITE);
       display.setTextColor(EPD_BLACK);
-      display.setTextSize(2);
+      display.setTextSize(3);
       display.println(items_0_statistics_subscriberCount);
       display.setTextSize(1);
       display.setTextColor(EPD_RED);
